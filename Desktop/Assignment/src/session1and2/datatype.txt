@@ -1,0 +1,5 @@
+The data types supported by java are as follows:
+Primitive data and non-primitive data 
+
+Primitive data includes byte, boolean, char, integer, short, long, double and float.
+Non-primitive data includes string, array and class.

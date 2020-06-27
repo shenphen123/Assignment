@@ -1,0 +1,21 @@
+1. The primitive variables are integer, short, long, boolean, char, double and float and non-primitive variables are string, array and class.
+   For example: double a = 23.45;
+
+   string s ="John";
+   
+2.  Objects are referred as reference type because it holds the reference on stack which point to the heap memory.
+  
+  Trace the output
+  
+ a. 
+Constructor called
+Area is 2000
+
+b.
+Not Equal
+
+c.
+Equal
+
+d.
+Equal
