@@ -1,0 +1,19 @@
+The list of runtime and compile time exceptions are as follows:
+1. Runtime exception:
+NullPointerException
+ArrayIndexOutOfBoundsException
+ArithmeticException
+IllegalArgumentException
+NumberFormatException
+
+2.Compile time exception:
+SQLException
+IOExceptionClassNotFoundException
+InvocationTargerException
+
+
+4. Output
+
+Number format exception occurred
+completed
+program completed
